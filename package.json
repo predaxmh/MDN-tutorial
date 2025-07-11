@@ -2,6 +2,7 @@
   "name": "npm-experiment",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://your-username.github.io/your-repo-name",
   "license": "ISC",
   "author": "islame",
   "type": "module",
