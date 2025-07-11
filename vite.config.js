@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/MDN-tutorial/",
+  base: "./",
   build: {
     outDir: "dist", // Ensure this matches your build directory
   },
